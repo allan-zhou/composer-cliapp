@@ -1,0 +1,9 @@
+{
+  "cli-app" : {
+     "participantId" : "admin",
+     "participantPwd" :"adminpw",
+     "businessNetworkIdentifier" : "shanyuan-network",
+     "connectionProfile" : "hlfv1",
+     "cardname" : "admin@shanyuan-network"
+  }
+}
